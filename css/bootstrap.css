@@ -1426,8 +1426,8 @@ textarea {
 }
 
 a {
-    color: #337ab7;
-    text-decoration: none
+    text-decoration: none;
+    color: white;
 }
 
 a:focus,
@@ -2089,6 +2089,8 @@ pre code {
     padding-right: 15px;
     padding-left: 15px
 }
+
+
 .col-sm-4 {
     margin-top: 5%;
     
