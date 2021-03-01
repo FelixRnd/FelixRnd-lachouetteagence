@@ -698,11 +698,26 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-
-
-h4 {
-    color: #333333!important;
+.slogan {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
 }
+
+.titre-background {
+    background-color: #27464E;
+    color: #F3976C;
+    border-radius: 10px 10px 10px 10px;
+    font-family: "helvetica";
+}
+h1 {
+    padding: 2%;
+}
+ h4 {
+     width: 50%;
+ }
 
 .icons {
     margin-bottom: 14px;
@@ -714,7 +729,6 @@ h4 {
 }
 
 .color-font-background-color {
-    color: #820D0D;
     text-align: center;
 }
 
@@ -732,7 +746,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #27464E;
     padding: 40px 40px 40px 40px;
 }
 
@@ -750,11 +764,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #f3976c;
+    background-color: #F3976c;
 }
 
 .tc-white {
-    color: white!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
