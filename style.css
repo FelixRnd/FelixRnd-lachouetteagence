@@ -48,6 +48,10 @@ a:hover {
     padding: 100px 50px;
 }
 
+.bloc-8 {
+
+}
+
 .bloc-md {
     padding: 50px;
 }
@@ -668,7 +672,6 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -678,6 +681,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    flex-direction: row;
 }
 
 h2 {
@@ -764,7 +768,8 @@ h1 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976c;
+    background-color: #27464E;
+    color :#F3976C;
 }
 
 .tc-white {
@@ -772,8 +777,8 @@ h1 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background-color: #27464E;
+    color :#F3976C;
 }
 
 .btn-atomic-tangerine:hover {
